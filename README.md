@@ -61,23 +61,24 @@ internee_portal/
 ## 📸 Screenshots
 
 ### 1. Homepage
-![Homepage](home.png)
 <img width="1408" height="768" alt="home" src="https://github.com/user-attachments/assets/67c3a56c-b85c-46fb-900c-099a146bea94" />
 
 
 ### 2. Elastic Beanstalk — Environment Health Ok
-![Beanstalk Health](4_health.png)
+<img width="1408" height="768" alt="4_health" src="https://github.com/user-attachments/assets/cf08025b-38c8-41b4-9758-245eb790cba5" />
+
 
 ### 3. Intern Profiles Page
-![Profiles](profile.png)
+<img width="1408" height="768" alt="profile" src="https://github.com/user-attachments/assets/1ca0672d-c382-48a3-b196-65ea13e886f3" />
+
 
 ### 4. Project Submissions Page
-![Submissions](submission.png)
+<img width="1408" height="768" alt="submission" src="https://github.com/user-attachments/assets/b33f7d7b-e0e0-4517-a487-9994d015af8c" />
+
 
 ### 5. Performance Tracking Page
-![Tracking](tracking.png)
+<img width="1408" height="768" alt="tracking" src="https://github.com/user-attachments/assets/bf735cc2-4c84-4d2f-a4b7-6d4aca9840ff" />
 
----
 
 ---
 
