@@ -68,7 +68,7 @@ internee_portal/
 ## 📸 Screenshots
 
 ### 1. Homepage
-<img width="1408" height="768" alt="home" src="https://github.com/user-attachments/assets/8f70554b-0634-4eaf-a751-c9c7edd16192" />
+<img width="1408" height="768" alt="home" src="https://github.com/user-attachments/assets/3ce295f4-6a28-4396-bc7b-5b5d203525ff" />
 
 
 ### 2. Elastic Beanstalk — Environment Health Ok
