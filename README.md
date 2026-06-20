@@ -1,7 +1,3 @@
-
-## 📝 GitHub README.md — Virtual Internship Portal:
-
-```markdown
 # 🎓 Internee.pk Virtual Internship Portal (Major Project)
 
 ## 📌 Project Overview
@@ -31,14 +27,22 @@ thousands of users.
 
 ## ⚙️ Features
 
-- 👤 **Intern Profiles** — View all registered interns with 
-  university, role, department, and status
-- 📁 **Project Submissions** — Form-based project submission 
-  system, stored directly in RDS
-- 📊 **Performance Tracking** — Weekly performance reports with 
-  ratings and remarks per intern
+- 👤 **Intern Profiles** — View all registered interns with university, role, department, and status
+- 📁 **Project Submissions** — Form-based project submission system, stored directly in RDS
+- 📊 **Performance Tracking** — Weekly performance reports with ratings and remarks per intern
 
+---
 
+## 🗄️ Database Schema
+internee_portal/
+
+├── interns        (id, full_name, email, university, role, department, joining_date, status)
+
+├── submissions    (id, intern_id, project_title, description, submission_date, file_link)
+
+└── performance    (id, intern_id, week_number, task_completed, rating, remarks)
+
+---
 
 ## 🚀 Deployment Steps
 
@@ -57,7 +61,8 @@ thousands of users.
 ## 📸 Screenshots
 
 ### 1. Homepage
-<img width="1408" height="768" alt="home" src="https://github.com/user-attachments/assets/3af218e4-e1a0-4d39-bf28-0ffeb57d32d9" />
+![Homepage](home.png)
+<img width="1408" height="768" alt="home" src="https://github.com/user-attachments/assets/67c3a56c-b85c-46fb-900c-099a146bea94" />
 
 
 ### 2. Elastic Beanstalk — Environment Health Ok
@@ -71,6 +76,9 @@ thousands of users.
 
 ### 5. Performance Tracking Page
 ![Tracking](tracking.png)
+
+---
+
 ---
 
 ## 📈 Scalability Notes
@@ -87,4 +95,4 @@ concurrent users without manual infrastructure management.
 **Mubashar Akram**  
 Internee @ Internee.pk  
 GitHub: [@MubasharAkram05](https://github.com/MubasharAkram05)
-```
+
